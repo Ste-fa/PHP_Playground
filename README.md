@@ -1,6 +1,6 @@
 # PHP Playground
 
-¡Welcome to my learning corner in the fascinating world of web development with PHP! This repository, **PHP_Playground**, is my personal space to experiment, learn, and share the code I'm writing as I navigate the waters of advanced web application development.
+¡Welcome to my learning corner in the fascinating world of web development with PHP! This repository, **PHP_Playground**, is my personal space to experiment, learn, and share the code I'm writing as a web application development student. 
 
 ## About Me
 
