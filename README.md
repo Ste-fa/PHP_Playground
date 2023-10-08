@@ -1,34 +1,35 @@
 # PHP Playground
 
-¡Bienvenido/a a mi rincón de aprendizaje en el fascinante mundo del desarrollo web con PHP! Este repositorio, **PHP_Playground**, es mi espacio personal para experimentar, aprender y compartir el código que estoy escribiendo mientras navego por las aguas del ciclo superior de desarrollo de aplicaciones web.
+¡Welcome to my learning corner in the fascinating world of web development with PHP! This repository, **PHP_Playground**, is my personal space to experiment, learn, and share the code I'm writing as I navigate the waters of advanced web application development.
 
-## Acerca de mí
+## About Me
 
-¡Hola! Soy ste-fa, una apasionada aprendiz de desarrollo web. Este repositorio es mi diario de a bordo digital, donde documentaré mi progreso y compartiré los proyectos, ejemplos y experimentos que estoy explorando mientras me sumerjo en el ecosistema de PHP.
+Hello! I'm ste-fa, a passionate web development learner. This repository is my digital logbook, where I'll document my progress and share the projects, examples, and experiments I'm exploring as I dive into the PHP ecosystem.
 
-## Contenido
+## Contents
 
-### Proyectos
+### Projects
 
-1. **Mi Primera calculadora web en PHP**: Este código combina HTML y PHP para crear una calculadora web básica que permite al usuario ingresar dos números, seleccionar una operación y ver el resultado después de hacer clic en "Calcular".
+1. **My First PHP Web Calculator**: This code combines HTML and PHP to create a basic web calculator that allows the user to input two numbers, select an operation, and see the result after clicking "Calculate".
 
-### Ejemplos
+### Examples
 
-#### Estructura del Repositorio
+#### Repository Structure
 
-- `/proyectos`: Contiene carpetas individuales para cada proyecto.
-- `/ejemplos`: Contiene archivos y carpetas para ejemplos específicos.
+- `/projects`: Contains individual folders for each project.
+- `/examples`: Contains files and folders for specific examples.
 
-## Aprendizaje Colaborativo
+## Collaborative Learning
 
-Me encantaría recibir comentarios y sugerencias de la comunidad. Si ves algo que podría mejorarse, ¡hazme saber abriendo un problema (issue) o enviando una solicitud de extracción (pull request)!
+I would love to receive feedback and suggestions from the community. If you see something that could be improved, let me know by opening an issue or sending a pull request!
 
-## Recursos de Desarrollo Web
+## Web Development Resources
 
-Si estás comenzando en el desarrollo web o quieres mejorar tus habilidades, aquí hay algunos recursos que me han resultado útiles:
+If you're starting in web development or want to improve your skills, here are some resources that have been helpful to me:
 
-- [MDN Web Docs](https://developer.mozilla.org/): Una excelente referencia para tecnologías web.
-- [W3Schools](https://www.w3schools.com/): Tutoriales y referencias para HTML, CSS, JavaScript, y más.
-- [PHP.net](https://www.php.net/): Documentación oficial de PHP.
+- [MDN Web Docs](https://developer.mozilla.org/): An excellent reference for web technologies.
+- [W3Schools](https://www.w3schools.com/): Tutorials and references for HTML, CSS, JavaScript, and more.
+- [PHP.net](https://www.php.net/): Official PHP documentation.
 
-¡Gracias por acompañarme en este viaje de aprendizaje! Espero que encuentres algo interesante y, sobre todo, que esto inspire tu propia travesía en el desarrollo web con PHP. ¡Happy coding! 🚀
+Thank you for joining me on this learning journey! I hope you find something interesting and, above all, that this inspires your own journey into web development with PHP. Happy coding! 🚀
+
